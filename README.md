@@ -5,9 +5,9 @@
     <img src="https://img.notionusercontent.com/s3/prod-files-secure%2F501588a2-50a4-4bb5-b6d6-639d6088ac31%2F376b1372-1eda-4cce-862b-a317b98539fb%2FImerso_Back-endGemini_Notion.png/size/w=2000?exp=1732023933&sig=0C4neKBtfR89RYsPUfl0vcbQS9QWC1Jll485dTWkH5k">
 </div>
 
-[![Node.js](https://img.shields.io/badge/node.js-18.12.1-green.svg)](https://nodejs.org/en/)
-[![Express.js](https://img.shields.io/badge/express.js-%5E4.17.1-brightgreen.svg)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-v6.0.0-blue.svg)](https://www.mongodb.com/)
+[![Node.js](https://img.shields.io/badge/node.js-22.11.0-green.svg)](https://nodejs.org/en/)
+[![Express.js](https://img.shields.io/badge/express.js-4.21.1-brightgreen.svg)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v8.0.0-blue.svg)](https://www.mongodb.com/)
 
 
 ## Descrição
