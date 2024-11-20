@@ -1,7 +1,6 @@
 import express from "express";
 import routes from "./src/routes/postsRoutes.js";
 
-
 const posts = [
   {
     id: 1,
@@ -21,7 +20,7 @@ const posts = [
 ];
 
 const app = express();
-routes(app)
+routes(app);
 app.listen(3000, () => {
   console.log("Servidor funcionando.");
 });
