@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://img.notionusercontent.com/s3/prod-files-secure%2F501588a2-50a4-4bb5-b6d6-639d6088ac31%2F376b1372-1eda-4cce-862b-a317b98539fb%2FImerso_Back-endGemini_Notion.png/size/w=2000?exp=1732023933&sig=0C4neKBtfR89RYsPUfl0vcbQS9QWC1Jll485dTWkH5k">
+    <img src="./header.png">
 </div>
 
 [![Node.js](https://img.shields.io/badge/node.js-22.11.0-green.svg)](https://nodejs.org/en/)
